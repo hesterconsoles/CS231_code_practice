@@ -9,4 +9,4 @@
        3.2 Suggested way: split the data into three dataset, train,validate and test. Train with different choice            in training, check it in validate, run once in test.
        3.3 Cross validation, use commonly in a small dataset, not DL. Take dataset,split into different fold                after taking out the last part for testing.
 
-   4. KNN is never used in picture classification:1) slow testing time, 2) the distance matrics on pixels are not informative 3) Curse of dimensionality
+  4. KNN is never used in picture classification:1) slow testing time, 2) the distance matrics on pixels are not informative 3) Curse of dimensionality (The algorithm needs the data densely cover the space, means exponentially growth)
