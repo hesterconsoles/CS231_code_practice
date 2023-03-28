@@ -1,4 +1,4 @@
-# CS231_code_practice
+# CS231_KNN
 Notes
   
 1.The code of KNN
