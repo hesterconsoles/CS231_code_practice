@@ -1,0 +1,7 @@
+Linear classification
+
+1. Picture to text : CNN(Picture) + RNN (text)
+2. Parametric model, 2 variables:x,W, f(x,W), score for each class
+3. Difference between KNN and linear:1) KNN has no parameters but linear classifier has. 
+                                     2) KNN uses the whole set of data for testing, but linear classifier can converted the information into the parameters, only the parameters(W) are used for testing
+4. f(x,W)=Wx with bias, give data independent preference
