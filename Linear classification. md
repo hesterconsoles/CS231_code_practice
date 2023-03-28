@@ -5,4 +5,6 @@ Linear classification
 3. Difference between KNN and linear:1) KNN has no parameters but linear classifier has. 
                                      2) KNN uses the whole set of data for testing, but linear classifier can converted the information into the parameters, only the parameters(W) are used for testing
 4. f(x,W)=Wx with bias, give data independent preference
- ![alt text](https://github.com/hesterconsoles/CS231_code_practice/blob/main/Screenshot%202023-03-28%20at%2023.24.52.png/image.jpg?raw=true)
+   Dot product gives the similarity
+   
+5. The problem of the linear classifier is only learning one template of the class. Linear unseparatble.
