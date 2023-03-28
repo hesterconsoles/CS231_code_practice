@@ -1,5 +1,5 @@
 # CS231_code_practice
-#Content
+# Content
 #  1.The code of KNN
 #  2.Distance matrix (L1 coordinate dependency, individual elements does have meaning,L2) Try them both and see which one is better
 #  3.Hyperparameters: 
